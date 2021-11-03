@@ -1,5 +1,5 @@
 A Simple Personal Web-site 
-Created By Using HTML, CSS, JavaScript
+Created By [HashMinner](https://github.com/kalanakt) Using HTML, CSS, JavaScript
 
 **Hosting Site**
   - rename github repo to username.github.io
