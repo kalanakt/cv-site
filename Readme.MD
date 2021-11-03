@@ -9,4 +9,4 @@ Created By Using HTML, CSS, JavaScript
  * Ask Me [ Send Mail](kalanakithmina@hotmail.com) | [ Telegram](https://t.me/kinu6)
 
 **Thanks To**
- - Bootscripts.com For Awsome Idias
+ - [Bootscripts](https://bootstrapmade.com) For Awsome Idias
